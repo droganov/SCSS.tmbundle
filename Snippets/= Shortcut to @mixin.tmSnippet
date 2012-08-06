@@ -12,7 +12,7 @@
 	<key>name</key>
 	<string>= Shortcut to @mixin</string>
 	<key>scope</key>
-	<string>source.scss</string>
+	<string>source.scss, source.sass</string>
 	<key>tabTrigger</key>
 	<string>=</string>
 	<key>uuid</key>
