@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@include box-shadow(${1:color} ${2:left} ${3:top}  ${4:blur});$0
+]]></content>
+	<tabTrigger>shadow</tabTrigger>
+	<scope>source.scss, source.css, source.sass</scope>
+</snippet>
+

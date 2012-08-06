@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+@include border-radius(${1:3px}${2:, ${3:4px}});$0
+]]></content>
+	<tabTrigger>rc</tabTrigger>
+	<scope>source.scss, source.css, source.sass</scope>
+</snippet>
