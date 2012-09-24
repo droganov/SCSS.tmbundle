@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+@include pull(${1:1})$0
+]]></content>
+	<tabTrigger>pull</tabTrigger>
+	<scope>source.scss, source.sass</scope>
+</snippet>
