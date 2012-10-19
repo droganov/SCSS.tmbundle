@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+@include media(highres){
+	$0
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>media</tabTrigger>
+	<scope>source.scss, source.sass</scope>
+</snippet>
