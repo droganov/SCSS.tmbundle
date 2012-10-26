@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-@include animate(${1:${2:.3s}, ${3:all}, ${4:ease-out}});$0
+@include animate(${1:.3s}, ${2:all}, ${3:ease-out});$0
 ]]></content>
 	<tabTrigger>animate</tabTrigger>
 	<scope>source.scss, source.sass</scope>
