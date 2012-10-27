@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+@include rotateX(${1:45deg}${2:, ${3:950}});$0
+]]></content>
+	<tabTrigger>rotateX</tabTrigger>
+	<scope>source.scss, source.sass</scope>
+</snippet>
