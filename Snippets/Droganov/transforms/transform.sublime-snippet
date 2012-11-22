@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 @include create-transform(
-	${1:false},		// perspective : 500 or 1000
+	${1:false},		// perspective : 500px or 1000px
 	${2:false},		// scale-x
 	${3:false},		// scale-y
 	${4:false},		// scale-z
